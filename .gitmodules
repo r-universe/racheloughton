@@ -1,4 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/racheloughton/racheloughton.r-universe.dev
 	branch = HEAD
+[submodule "PropensityScoreSampling"]
+	path = PropensityScoreSampling
+	url = https://github.com/RachelOughton/PropensityScoreSampling
