@@ -2,6 +2,6 @@
 	path = .registry
 	url = https://github.com/racheloughton/racheloughton.r-universe.dev
 	branch = HEAD
-[submodule "PropensityScoreSampling"]
-	path = PropensityScoreSampling
-	url = https://github.com/RachelOughton/PropensityScoreSampling
+[submodule "pss"]
+	path = pss
+	url = https://github.com/RachelOughton/pss
